@@ -72,3 +72,30 @@ ENTRYPOINT [ "./product-catalog" ]
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
